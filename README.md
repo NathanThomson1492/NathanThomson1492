@@ -1,12 +1,19 @@
-- 👋 Hi, I’m @NathanThomson1492
-- 👀 I’m interested in IT Support and Cybersecurity
-- 🌱 I’m currently learning IT Support fundamentals, React, JavaScript, and Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: nethomson1492@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<h1>Hi, I'm Nathan, an <a href="https://https://www.linkedin.com/in/nathan-thomson-4802b1261/">IT Professional</a>☺</h1>
 
-<!---
-NathanThomson1492/NathanThomson1492 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h2> Information Technology Projects:</h2>
+
+- <b>VPN setup)</b>
+  - [VPN installation and setup](https://github.com/joshmadakorcc/osticket-prereqs)
+  
+- <b>Microsoft Azure</b>
+  
+
+<h2>Connect with me:</h2>
+
+
+[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+
+
+[linkedin]: https://linkedin.com/in/nathan-thomson-4802b1261/
