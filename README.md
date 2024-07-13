@@ -3,7 +3,7 @@
 <h2> Information Technology Projects:</h2>
 
 - <b>VPN setup)</b>
-  - [VPN installation and setup](https://github.com/joshmadakorcc/osticket-prereqs)
+  - [VPN installation and setup](https://github.com/NathanThomson1492/nathanthomsonvpn)
   
 - <b>Microsoft Azure</b>
   
