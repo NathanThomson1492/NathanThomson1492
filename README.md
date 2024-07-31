@@ -7,8 +7,8 @@
   
 - <b>Microsoft Azure</b>
   <ul>
-    <li>[Active Directory Installation and Setup](https://github.com/NathanThomson1492/Active-Directory-Installation-and-Setup)</li>
-    <li>[File Shares and Permissions Tutorial](https://github.com/NathanThomson1492/File-Shares-and-Permissions) </li>
+    <li>Active Directory Installation and Setup(https://github.com/NathanThomson1492/Active-Directory-Installation-and-Setup)</li>
+    <li>File Shares and Permissions Tutorial(https://github.com/NathanThomson1492/File-Shares-and-Permissions) </li>
   </ul>
 
   
