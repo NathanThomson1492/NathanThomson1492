@@ -1,4 +1,4 @@
-<h1>Hi, I'm Nathan, an <a href="https://https://www.linkedin.com/in/nathan-thomson-4802b1261/">IT Professional</a>☺</h1>
+<h1>Hi, I'm Nathan, an <a href="https://https://www.linkedin.com/in/nathan-thomson-4802b1261/">IT Professional</a></h1>
 
 <h2> Information Technology Projects:</h2>
 
