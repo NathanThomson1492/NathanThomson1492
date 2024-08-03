@@ -5,7 +5,7 @@
 - <b>VPN setup</b>
   - [VPN installation and setup](https://github.com/NathanThomson1492/nathanthomsonvpn)
   
-- <b>Microsoft Azure</b>
+- <b>Active Directory</b>
     - [Active Directory Installation Tutorial](https://github.com/NathanThomson1492/Active-Directory-Installation-and-Setup)
     - [File Shares and Permissions Tutorial](https://github.com/NathanThomson1492/File-Shares-and-Permissions) 
   
