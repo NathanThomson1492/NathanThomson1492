@@ -7,7 +7,10 @@
   
 - <b>Active Directory</b>
     - [Active Directory Installation Tutorial](https://github.com/NathanThomson1492/Active-Directory-Installation-and-Setup)
-    - [File Shares and Permissions Tutorial](https://github.com/NathanThomson1492/File-Shares-and-Permissions) 
+    - [File Shares and Permissions Tutorial](https://github.com/NathanThomson1492/File-Shares-and-Permissions)
+ 
+- <b>Ticketing Systems</b>
+  - [Os Ticket Setup and Configuration Tutorial](https://github.com/NathanThomson1492/OS-Ticket-tutorial) 
   
 
   
