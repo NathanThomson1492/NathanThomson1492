@@ -3,7 +3,7 @@
 <h2> Information Technology Projects:</h2>
 
 -<b>Networking and Wireshark</b>
-  - [Networking Basics]
+  - [Networking Basics](https://github.com/NathanThomson1492/Networking-Basics.git)
 
 - <b>VPN setup</b>
   - [VPN installation and setup](https://github.com/NathanThomson1492/nathanthomsonvpn)
