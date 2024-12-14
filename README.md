@@ -2,7 +2,8 @@
 
 <h2> Information Technology Projects:</h2>
 
-
+- <b>Networking</b>
+  - [Networking Basics](https://github.com/NathanThomson1492/Networking-Basics)
 
 - <b>VPN setup</b>
   - [VPN installation and setup](https://github.com/NathanThomson1492/nathanthomsonvpn)
